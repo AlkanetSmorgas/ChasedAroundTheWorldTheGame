@@ -4,6 +4,13 @@
 A small casual turn based game where you play as a thief collecting money bags or the police gathering clues to locate the thief.
 At the same time, you can sharpen up your geography skills, learn where countries and it´s neighbors are located.
 
+# Features
+* Short session game (15-25 minutes) For when you just want to pastime.
+* 22 country cards, all presenting something famous for that country.
+* Up to 140 countries to travel between.
+* Improve your geography skills.
+* Play as a thief or the police. Human, cat or dog.
+
 # Factsheet
 
 ## Developer
@@ -21,13 +28,6 @@ Steam PC
 * EUR 2,39
 * GBP 2.09
 * (Launch Discount 30%)
-
-# Features
-* Short session game (15-25 minutes) For when you just want to pastime.
-* 22 country cards, all presenting something famous for that country.
-* Up to 140 countries to travel between.
-* Improve your geography skills.
-* Play as a thief or the police. Human, cat or dog.
 
 # Videos
 [![IMAGE ALT TEXT](Logos/trailer_first.png)](https://youtu.be/-G6dEWBAZqg "Trailer")</br>
