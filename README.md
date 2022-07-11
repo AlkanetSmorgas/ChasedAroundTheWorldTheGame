@@ -51,6 +51,9 @@ Steam PC
 <img src="Logos/library_logo_transparent.png" height="300" /></br>
 <img src="Logos/store_capsule_header.png" height="150" />
 
+# Licence
+All images in this repository are under the Creative Commons Zero v1.0 Universal. This include Commercial use, Distribution , Modification and Private use. 
+
 # Contact
 [Discord](https://discord.com/invite/azWURcymGY)</br>
 [Twitter](https://twitter.com/SandwichCakeStu)
