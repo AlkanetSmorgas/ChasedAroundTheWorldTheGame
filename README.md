@@ -22,8 +22,6 @@ Steam PC
 * GBP 2.09
 * (Launch Discount 30%)
 
-# History
-
 # Features
 * Short session game (15-25 minutes) For when you just want to pastime.
 * 22 country cards, all presenting something famous for that country.
@@ -32,7 +30,7 @@ Steam PC
 * Play as a thief or the police. Human, cat or dog.
 
 # Videos
-[![IMAGE ALT TEXT](Logos/trailer_first.png)](https://youtu.be/-G6dEWBAZqg "Trailer video")</br>
+[![IMAGE ALT TEXT](Logos/trailer_first.png)](https://youtu.be/-G6dEWBAZqg "Trailer")</br>
 [![IMAGE ALT TEXT](Logos/gameplay_first.png)](https://youtu.be/5pkDR2-R288 "Gameplay")
 
 # Images
@@ -47,7 +45,7 @@ Steam PC
 
 # Logos & Icon
 <img src="Logos/library_logo_transparent.png" height="300" />
-<img src="Logos/store_capsule_header.png" height="300" />
+<img src="Logos/store_capsule_header.png" height="150" />
 
 # Contact
 [Discord](https://discord.com/invite/azWURcymGY)</br>
