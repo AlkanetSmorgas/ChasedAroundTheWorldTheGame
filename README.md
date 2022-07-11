@@ -14,9 +14,8 @@ At the same time, you can sharpen up your geography skills, learn where countrie
 # Factsheet
 
 ## Developer
-Sandwich Cake Studios</br>
+[Sandwich Cake Studios](https://github.com/AlkanetSmorgas/SandwichCakeStudios)</br>
 One man indie company, based in sweden.
-
 ## Release Date
 July 29th, 2022
 
