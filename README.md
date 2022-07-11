@@ -27,15 +27,13 @@ Steam PC
 # Features
 * Short session game (15-25 minutes) For when you just want to pastime.
 * 22 country cards, all presenting something famous for that country.
-* Interactive tutorial.
-* Easy, medium and hard difficulty levels.
 * Up to 140 countries to travel between.
 * Improve your geography skills.
 * Play as a thief or the police. Human, cat or dog.
 
 # Videos
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/5pkDR2-R288) "Video Title")</br>
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/-G6dEWBAZqg) "Video Title")
+[![IMAGE ALT TEXT](Logos/trailer_first.png)](https://youtu.be/-G6dEWBAZqg "Trailer video")</br>
+[![IMAGE ALT TEXT](Logos/gameplay_first.png)](https://youtu.be/5pkDR2-R288 "Gameplay")
 
 # Images
 <img src="Screenshots/img_0.png" height="300" />
