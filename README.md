@@ -34,6 +34,8 @@ Steam PC
 [![IMAGE ALT TEXT](Logos/gameplay_first.png)](https://youtu.be/5pkDR2-R288 "Gameplay")
 
 # Images
+*You can download images from the Screenshots folder.*</br>
+
 <img src="Screenshots/img_0.png" height="300" />
 <img src="Screenshots/img_1.png" height="300" />
 <img src="Screenshots/img_2.png" height="300" />
@@ -44,7 +46,9 @@ Steam PC
 <img src="Screenshots/img_7.png" height="300" />
 
 # Logos & Icon
-<img src="Logos/library_logo_transparent.png" height="300" />
+*You can download logos from the Logos folder.*</br>
+
+<img src="Logos/library_logo_transparent.png" height="300" /></br>
 <img src="Logos/store_capsule_header.png" height="150" />
 
 # Contact
