@@ -8,6 +8,7 @@ At the same time, you can sharpen up your geography skills, learn where countrie
 * Short session game (15-25 minutes) For when you just want to pastime.
 * 22 country cards, all presenting something famous for that country.
 * Up to 140 countries to travel between.
+* Three maps to play on, Eurasia (Europe and Asia), Eurafrasia (Europe, Asia and Africa), World (All continents)
 * Improve your geography skills.
 * Play as a thief or the police. Human, cat or dog.
 
