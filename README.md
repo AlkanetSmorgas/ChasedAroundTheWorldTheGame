@@ -30,8 +30,8 @@ Steam PC
 * (Launch Discount 30%)
 
 # Videos
-[![IMAGE ALT TEXT](Logos/trailer_first.png)](https://youtu.be/-G6dEWBAZqg "Trailer")</br>
-[![IMAGE ALT TEXT](Logos/gameplay_first.png)](https://youtu.be/5pkDR2-R288 "Gameplay")
+[![IMAGE ALT TEXT](Logos/trailer_first.png)](https://www.youtube.com/watch?v=AQ_aGGyVgRw "Trailer")</br>
+[![IMAGE ALT TEXT](Logos/gameplay_first.png)](https://www.youtube.com/watch?v=p0H2m4OEJAM "Gameplay")
 
 # Images
 *You can download images from the Screenshots folder.*</br>
