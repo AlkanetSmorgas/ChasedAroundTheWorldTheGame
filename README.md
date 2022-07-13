@@ -21,7 +21,7 @@ One man indie company, based in sweden.
 July 29th, 2022
 
 ## Platforms
-Steam PC
+[Steam PC](https://store.steampowered.com/app/1937050/Chased_Around_The_World/)
 
 ## Regular Price
 * USD 2.99
